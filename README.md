@@ -39,4 +39,9 @@ Portfolio:
 portfolio-git-main-samarth13p2417-bits-projects.vercel.app 
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samarth13p2417-bit&show_icons=true&theme=tokyonight" />
+</p>
 ⭐ Thanks for visiting my profile!
