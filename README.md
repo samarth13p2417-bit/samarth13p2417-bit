@@ -41,7 +41,17 @@ portfolio-git-main-samarth13p2417-bits-projects.vercel.app
 ---
 ## 📊 GitHub Stats
 
+## 🌐 My Portfolio
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarth13p2417-bit&show_icons=true&theme=tokyonight" />
+  <a href="https://samarth13p2417-bit-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://samarth13p2417-bit-portfolio.vercel.app">
+    Click here to explore my live portfolio →
+  </a>
 </p>
 ⭐ Thanks for visiting my profile!
