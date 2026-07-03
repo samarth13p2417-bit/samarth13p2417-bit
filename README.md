@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Samarth Choudhary
 
-<!--
-**samarth13p2417-bit/samarth13p2417-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Data Science & Full Stack Developer
 
-Here are some ideas to get you started:
+💻 Diploma in Computer Technology
+🎓 B.Tech in Data Science (Pursuing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Skills
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express
+- MySQL
+- PostgreSQL
+- Python
+- Machine Learning
+- Git
+- GitHub
+
+### 🌱 Currently Learning
+
+- AI Engineering
+- Data Analytics
+- Machine Learning
+- Cloud
+
+### 📫 Connect with me
+
+LinkedIn:
+www.linkedin.com/in/samarth-choudhary-057b36279
+
+Portfolio:
+portfolio-git-main-samarth13p2417-bits-projects.vercel.app 
+
+---
+⭐ Thanks for visiting my profile!
