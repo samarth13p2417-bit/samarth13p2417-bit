@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Samarth Banner">
+  <img src="https://raw.githubusercontent.com/samarth13p2417-bit/samarth13p2417-bit/main/banner.png.png" width="100%" alt="Samarth Banner">
 </p>
 # Hi 👋, I'm Samarth Choudhary
 
