@@ -22,6 +22,13 @@
 - Machine Learning
 - Git
 - GitHub
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,mysql,postgres,git,github,vscode&theme=dark" />
+</p> 
 
 ### 🌱 Currently Learning
 
