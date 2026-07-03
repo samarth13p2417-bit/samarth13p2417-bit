@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Samarth Banner">
+</p>
 # Hi 👋, I'm Samarth Choudhary
 
 ## 🚀 Data Science & Full Stack Developer
